@@ -15,10 +15,19 @@ The purpose of the project is to improve the programmer's workflow by offering a
 > **Prototype:**
 >
 > ![Figma](https://img.shields.io/badge/Figma-F24F1D?style=for-the-badge&logo=figma&logoColor=white)
->
+
+
 
 > **Agile methodologies:**
 >
 > ![Trello](https://img.shields.io/badge/Kanbam%20(with%20trello)-0079bf?style=for-the-badge&logo=trello&logoColor=trello)
 
 ---
+
+### Design
+- [ ] **First-Steps Setup**
+- [ ] **Cross Layout**
+- [ ] **Block Layout**
+- [ ] **Launcher**
+- [ ] **Code Editor**
+- [ ] **Window** ***"Manager"***
